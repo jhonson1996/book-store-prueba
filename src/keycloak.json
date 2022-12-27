@@ -1,0 +1,10 @@
+{
+  "realm": "certification",
+  "auth-server-url": "https://auth.gyfted.io",
+  "ssl-required": "external",
+  "resource": "bookstore-client",
+  "credentials": {
+    "secret": "dE5wY5HnKKYTm7rUOljxMwBfgwxH3LGo"
+  },
+  "confidential-port": 0
+}

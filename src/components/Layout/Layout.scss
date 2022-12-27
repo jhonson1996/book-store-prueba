@@ -1,0 +1,17 @@
+.contain-main {
+  display: flex;
+  flex-direction: column;
+  overflow: auto;
+  height: 100%;
+  width: 100%;
+  padding: 0;
+}
+.header {
+  position: fixed;
+  background-color: #4c394e;
+}
+.section {
+  height: auto; 
+  width: 100% !important;
+  background-color: rgb(236, 236, 236);
+}
